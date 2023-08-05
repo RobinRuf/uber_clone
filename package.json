@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@react-native/eslint-config": "^0.72.2",
+    "@react-navigation/native": "^6.1.7",
     "@reduxjs/toolkit": "^1.9.5",
     "eslint": "^8.46.0",
     "expo": "~49.0.5",
