@@ -11,7 +11,7 @@ const initialState = {
 export const navSlice = createSlice({
   name: "nav",
   initialState,
-  reducer: {
+  reducers: {
     // state is the current state of the data, while action is the ability to dispatch the current data
     // to the data layer to exchange the old information with the new one
     setOrigin: (state, action) => {
