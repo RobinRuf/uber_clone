@@ -6,9 +6,11 @@ That was the reason why I built it - and to develop my React Native skills.
 ## Used
 * Redux
 * Google Places API
+* react-native-google-places-autocomplete
 * Google Distance Matrix API
 * react-native-maps
 * react-native-maps-directions
+* tailwind-react-native-classnames
 * react-native-elements
 * react-navigation
 
