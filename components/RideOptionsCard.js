@@ -46,7 +46,7 @@ const RideOptionsCard = () => {
         >
           <Icon name="chevron-left" type="fontawesome" />
         </TouchableOpacity>
-        <Text style={tw`text-center py-5 text-xl`}>Select a Ride</Text>
+        <Text style={tw`text-center pt-5 text-xl`}>Select a Ride</Text>
       </View>
 
       <FlatList
@@ -74,7 +74,7 @@ const RideOptionsCard = () => {
       <View>
         <TouchableOpacity
           disabled={!selected}
-          style={tw`bg-black py-3 ${!selected && "bg-gray-300"}`}
+          style={tw`bg-black py-3 mt-2 ${!selected && "bg-gray-300"}`}
         >
           <Text style={tw`text-center text-white text-xl`}>
             Choose {selected?.title}
