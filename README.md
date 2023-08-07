@@ -3,6 +3,8 @@
 Uber is the favorite transport service provider for many of us - and to be honest, I like their minimalistic App design.\
 That was the reason why I built it - and to develop my React Native skills.
 
+![Static Badge](https://img.shields.io/badge/Opensource-blue)
+
 ## Built with
 * Redux
 * Google Places API
