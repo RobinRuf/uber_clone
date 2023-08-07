@@ -36,3 +36,13 @@ That was the reason why I built it - and to develop my React Native skills.
 
 ## Contributions
 Feel free to create a merge request in the `Workspace` branch if you want to add something.
+
+### How to Contribute
+1. Fork the Repo
+2. Clone the forked Repo `git clone git@github.com:....`
+3. Create a branch for your feature or fix `git checkout -b feat/featname` or `git checkout -b fix/fixname`
+4. Comment your code, so everyone knows what you did
+5. Push your branch
+6. Send your `pull request` to the `main` branch
+7. Your pull request will be reviewed by the maintainers and the maintainers will decide if it is accepted or not
+8. Once the pull request is accepted, the maintainers will `merge` it to the `main` branch
